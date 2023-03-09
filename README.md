@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hola mi nombre es Jorge Peña 👋
+
+## Bucaramanga, Santander, Colombia
+![Jorge_Peña_1](https://user-images.githubusercontent.com/122408801/224073704-c21b8d30-257b-476a-98a4-2f1bec8c7a62.jpg)
+
+
 
 <!--
-**jorgepenat/jorgepenat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jorgepenat/jorgepenat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on RPG, AS/400
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![html5](https://user-images.githubusercontent.com/122408801/224074041-f873415c-a59c-4ff1-8bed-9371dffb85f6.png)
