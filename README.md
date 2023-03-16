@@ -4,7 +4,12 @@
 
 ![IBM](https://user-images.githubusercontent.com/122408801/224104058-ce3a6dd6-567d-4a6c-82cc-8b2b0804d0f3.png)
 
-![rpg](https://user-images.githubusercontent.com/122408801/225666967-2fff09a8-65e9-483b-b50e-52d27b1eada5.png)
+<img src="https://user-images.githubusercontent.com/122408801/224104058-ce3a6dd6-567d-4a6c-82cc-8b2b0804d0f3.png" width="60" height="80">
+
+<img src="https://user-images.githubusercontent.com/122408801/225702915-e90b7139-fc32-44c0-8139-9e64b3a6c0a7.png" widht="40" height="30">
+
+![rpg-1](https://user-images.githubusercontent.com/122408801/225702915-e90b7139-fc32-44c0-8139-9e64b3a6c0a7.png)
+
 
 
 ## Skills:
@@ -23,6 +28,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-white?logo=MicrosoftSQLServer&logoColor=red&style=for-the-badge)
 ![Graph QL](https://img.shields.io/badge/-GraphQL-white?logo=GraphQL&logoColor=E10098&style=for-the-badge)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-white?logo=ApolloGraphQL&logoColor=311C87&style=for-the-badge)
+
 
 ## Tools:
 
