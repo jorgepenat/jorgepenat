@@ -10,7 +10,7 @@
 
 ![rpg-1](https://user-images.githubusercontent.com/122408801/225702915-e90b7139-fc32-44c0-8139-9e64b3a6c0a7.png)
 
-
+&copy
 
 ## Skills:
 
