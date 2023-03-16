@@ -9,12 +9,7 @@
 
 ## Bucaramanga, Santander, Colombia ⚽
 
-
-
 ![IBM](https://user-images.githubusercontent.com/122408801/224104058-ce3a6dd6-567d-4a6c-82cc-8b2b0804d0f3.png)
-
-
-![Jorge_Peña_1](https://user-images.githubusercontent.com/122408801/224073704-c21b8d30-257b-476a-98a4-2f1bec8c7a62.jpg)
 
 <a href='https://emojitool.com/flag-for-colombia'>🇨🇴</a>
 
