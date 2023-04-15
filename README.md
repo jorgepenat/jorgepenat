@@ -2,15 +2,13 @@
 
 ## Bucaramanga, Santander, Colombia ⚽
 
-![IBM](https://user-images.githubusercontent.com/122408801/224104058-ce3a6dd6-567d-4a6c-82cc-8b2b0804d0f3.png)
+- Director de Sistemas, a cuyo cargo están todos los servicios informáticos de una compañía, así como la infraestructura tecnológica, técnica y humana. 
+- Administrador de servicios informáticos. Ingeniero responsable por la provisión de servicios informáticos que sirven de base a la labor de una organización.
+-  Soporte a usuarios (Service Desk), con habilidad para dar entrenamiento, soporte, resolver problemas operativos y técnicos a los usuarios de los sistemas de   información.
 
 <img src="https://user-images.githubusercontent.com/122408801/224104058-ce3a6dd6-567d-4a6c-82cc-8b2b0804d0f3.png" width="60" height="80">
 
 <img src="https://user-images.githubusercontent.com/122408801/225702915-e90b7139-fc32-44c0-8139-9e64b3a6c0a7.png" widht="40" height="30">
-
-![rpg-1](https://user-images.githubusercontent.com/122408801/225702915-e90b7139-fc32-44c0-8139-9e64b3a6c0a7.png)
-
-&copy
 
 ## Skills:
 
